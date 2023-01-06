@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Gatsby Technical Support Minimal Reproduction Test
 </h1>
 
 ## 🚀 Quick start
